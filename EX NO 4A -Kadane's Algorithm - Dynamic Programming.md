@@ -32,7 +32,6 @@ Constraints:
 ## Program:
 ```
 /*
-Program to implement Reverse a String
 Developed by: Vedagiri Indu Sree
 Register Number: 212223230236
 */
